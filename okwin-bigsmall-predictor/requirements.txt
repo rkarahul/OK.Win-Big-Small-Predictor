@@ -1,0 +1,7 @@
+opencv-python
+paddlepaddle-gpu   # or paddlepaddle if no GPU
+paddleocr
+pandas
+numpy
+scikit-learn
+joblib
